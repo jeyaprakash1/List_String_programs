@@ -1,5 +1,5 @@
 # input: ['wish','you','a' ,'very' ,'happy', 'new','year']
-# output:['wish','a','happy','year']
+# output:['hsiw','a','yppah','raey']
 
 sen=input("enter a sentence ")
 l=sen.split()
